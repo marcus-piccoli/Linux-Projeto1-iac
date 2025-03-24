@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Versão 2 do projetos"
+
 echo "Criando diretórios!!!"
 
 mkdir /publico
